@@ -1,6 +1,6 @@
 ---
 name: connect-apps
-description: Use when the user wants to read from or act in a connected app (Notion, Linear, etc.) through this plugin's MCP servers, or asks which apps are connected.
+description: Use when the user wants to read from or act in a connected app (Notion, Linear, Slack, Gmail, Google Drive) through this plugin's MCP servers, or asks which apps are connected.
 ---
 
 # Connect apps
