@@ -1,8 +1,10 @@
 {
   "name": "connect-apps-plugin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Claude Code plugin for connecting apps via MCP servers, skills and commands",
   "author": { "name": "justinthomas1992" },
+  "homepage": "https://github.com/justinthomas1992/connect-apps-plugin",
   "repository": "https://github.com/justinthomas1992/connect-apps-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["mcp", "connectors", "notion", "linear", "slack", "gmail", "google-drive"]
 }

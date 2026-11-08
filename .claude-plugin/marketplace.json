@@ -1,0 +1,12 @@
+{
+  "name": "connect-apps-plugin",
+  "owner": { "name": "justinthomas1992" },
+  "plugins": [
+    {
+      "name": "connect-apps-plugin",
+      "source": "./",
+      "description": "Connect Claude Code to Notion, Linear, Slack, Gmail and Google Drive via MCP servers",
+      "version": "0.2.0"
+    }
+  ]
+}
